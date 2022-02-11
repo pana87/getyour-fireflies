@@ -5,7 +5,7 @@ An elegant HTML/CSS only solution for adding a tranquil fireflies effect to your
 ## Install
 
 ```bash
-npm i -S @getyour/getyour-fireflies
+npm i -S github:pnts87/getyour-fireflies
 ```
 
 ## Use
@@ -14,5 +14,5 @@ npm i -S @getyour/getyour-fireflies
     <div class="container">
       <getyour-fireflies></getyour-fireflies>
     </div>
-    <script src="getyour-fireflies.js"></script>
+    <script src="@getyour/getyour-fireflies.js"></script>
 ```
