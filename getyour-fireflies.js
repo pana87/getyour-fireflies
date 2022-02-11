@@ -11,8 +11,8 @@ template.innerHTML = /*html*/`
 
       .firefly {
         position: relative;
-        left: 0;
-        top: 0;
+        left: 50%;
+        top: 20%;
         width: 0.4vw;
         height: 0.4vw;
         margin: -0.2vw 0 0 9.8vw;
@@ -2231,9 +2231,6 @@ template.innerHTML = /*html*/`
   <div class="firefly"></div>
 
 `
-
-
-console.log("hi")
 
 class GetyourFireflies extends HTMLElement {
   constructor() {
